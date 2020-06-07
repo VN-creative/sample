@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.thespoiledmama.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fproducts%2Ftummy-butter-for-pregnancy-stretch-marks
+.personalizer.io	TRUE	/	FALSE	1999999999	__cfduid	d3a26661df3c018fa54e1418079f0d3d31591555936
+edge.personalizer.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+.authorize.net	TRUE	/	FALSE	1999999999	__cfruid	8f4ed6d87f1b25c2a2e0f3ae485ad6c00065fcec-1591556120
+.authorize.net	TRUE	/	FALSE	1999999999	__cfduid	da93c4a29e1949d226456402ecea592981591556120
+verify.authorize.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+.afterpay.com	TRUE	/	FALSE	1999999999	__cfduid	df40b1f4cf195268f6ab34a6ce9177d6b1591556126
+static.afterpay.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.thespoiledmama.com	TRUE	/	FALSE	1999999999	_y	4733e7d6-8633-49eb-896e-8d90910c0176
+www.thespoiledmama.com	TRUE	/	FALSE	1999999999	_shopify_y	4733e7d6-8633-49eb-896e-8d90910c0176
+.www.thespoiledmama.com	TRUE	/	FALSE	1999999999	__cfduid	d40fb679473eae7ef70ba66139775515b1591556746
+www.thespoiledmama.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.thespoiledmama.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+
